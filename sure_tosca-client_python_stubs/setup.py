@@ -27,7 +27,7 @@ REQUIRES = [
 "six==1.14.0",
 # "python_dateutl==2.5.3",
 "setuptools==46",
-"urllib3==1.25.8",
+"urllib3==1.26.5",
 "numpy==1.18.2"
 ]
     
