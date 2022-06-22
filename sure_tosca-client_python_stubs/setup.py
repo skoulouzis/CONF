@@ -28,7 +28,7 @@ REQUIRES = [
 # "python_dateutl==2.5.3",
 "setuptools==46",
 "urllib3==1.25.8",
-"numpy==1.18.2"
+"numpy==1.22.0"
 ]
     
 
