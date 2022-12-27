@@ -26,7 +26,7 @@ REQUIRES = [
 "certifi==2019.11.28",
 "six==1.14.0",
 # "python_dateutl==2.5.3",
-"setuptools==46",
+"setuptools==65.5.1",
 "urllib3==1.25.8",
 "numpy==1.18.2"
 ]
